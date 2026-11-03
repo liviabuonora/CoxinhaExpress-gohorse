@@ -6,10 +6,14 @@ App de linha de comando para fazer os 15 minutos do intervalo renderem: o aluno 
 - Python 3, sem dependências externas e sem banco de dados (os pedidos ficam em memória).
 - Um único arquivo (`app.py`) para ir rápido. IA liberada para ajudar a escrever o código.
 
-## Papel dos integrantes
-- [NOME]: [papel, ex.: lógica de pedido e preço]
-- [NOME]: [papel, ex.: pagamentos]
-- [NOME]: [papel, ex.: README e vídeo]
+## Equipe:
+- Antônio Marcos
+- Arthur Florencio
+- Cecília de Moraes
+- Lívia Buonora
+- Luiza Beltrão
+- Silvio Ronaldo 
+- Victor Bacelar
 
 ## O que é o app
 - Cardápio fixo (coxinha, pastel, sanduíche, suco, refri, água).
